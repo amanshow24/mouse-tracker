@@ -1,0 +1,23 @@
+@media (max-width: 600px) {
+  .tracker-box {
+    width: 90%;
+    padding: 20px;
+  }
+
+  .position-values {
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  h1 {
+    font-size: 26px;
+  }
+
+  .tracker-box h2 {
+    font-size: 20px;
+  }
+
+  .coordinates {
+    font-size: 18px;
+  }
+}

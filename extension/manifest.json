@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Mouse Position Tracker",
+  "description": "Track your mouse position in real-time with a smooth animation.",
+  "version": "1.0",
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "permissions": [],
+  "icons": {
+    "128": "icon.png"
+  }
+}
